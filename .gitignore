@@ -33,5 +33,4 @@ ENV/
 *.swo
 *~
 .DS_Store
-# Local runner
 launch_game.sh
