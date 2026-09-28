@@ -33,4 +33,5 @@ ENV/
 *.swo
 *~
 .DS_Store
-Thumbs.db
+# Local runner
+launch_game.sh
